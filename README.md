@@ -1,5 +1,5 @@
 # python-programs_j3
-## steps to uolode files from local to  repo
+## steps to uplode files from local to  repo
 1. selectn upload option
 2. choose files where it is located or drag and drop
 3. commite changes
